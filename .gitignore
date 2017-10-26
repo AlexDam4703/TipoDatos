@@ -5,4 +5,4 @@
 *.swp
 
 #ignora la documentacion
-/doc
+*doc
